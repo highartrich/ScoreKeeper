@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CourtCounter</string>
+    <string name="team1">Dallas Cowboys</string>
+    <string name="team2">Green Bay Packers</string>
+    <string name="reset">Reset Score</string>
+    <string name="score">0</string>
+    <string name="td">Touchdown!</string>
+    <string name="fg">Field Goal</string>
+    <string name="pat">Extra Point</string>
+    <string name="safety">Safety</string>
 </resources>
